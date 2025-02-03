@@ -2,7 +2,7 @@
 Welcome to the Database Design and Development prject.
 
 This project was completed in 2019 for the Database Design course as a part of studies in Haaga-Helia AMK. 
-The project was updated in Jan 2025 in order to improve it's structure readability.
+The project was updated in Jan 2025 in order to improve it's structure and readability.
 
 ## Project navigation:
 

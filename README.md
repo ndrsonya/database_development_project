@@ -6,7 +6,7 @@ The project was updated in Jan 2025 in order to improve it's structure readabili
 
 ## Project navigation:
 
-[/Requirements](https://github.com/ndrsonya/database_development_project/tree/master/requirements) - contains document with the detailed task and caserequirements
+[/Requirements](https://github.com/ndrsonya/database_development_project/tree/master/requirements) - contains document with the detailed task and case requirements
 
 [/Reports](https://github.com/ndrsonya/database_development_project/tree/master/reports) - contains project reports, including ER diagrams, relational tables description and design
 
